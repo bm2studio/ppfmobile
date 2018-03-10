@@ -7,7 +7,7 @@ Client can register, authorize and recover his account data.
 
 Application is written on React Native and works both under iOS and Android.
 
-Sample code could be found in sources. It's not the whole program - just a couple of components to demonstrate.
+Sample code could be found in sources. It's not the whole program - only a couple of components to demonstrate.
 
 |   |   |
 | --- | --- |
