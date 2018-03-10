@@ -7,12 +7,7 @@ Client can register, authorize and recover his account data.
 
 Application is written on React Native and works both under iOS and Android.
 
-![alt text](https://github.com/Gaever/ppfmobile/blob/master/1.%20Startscreen.png)
-
-![alt text](https://github.com/Gaever/ppfmobile/blob/master/2.%20Contract%20list.png)
-
-![alt text](https://github.com/Gaever/ppfmobile/blob/master/3.%20Contract%20detail.png)
-
-![alt text](https://github.com/Gaever/ppfmobile/blob/master/4.%20Payment.png)
-
-![alt text](https://github.com/Gaever/ppfmobile/blob/master/5.%20Payment%20gate.png)
+|-----|-----|
+| ![alt text](https://github.com/Gaever/ppfmobile/blob/master/1.%20Startscreen.png) | ![alt text](https://github.com/Gaever/ppfmobile/blob/master/2.%20Contract%20list.png) |
+| ![alt text](https://github.com/Gaever/ppfmobile/blob/master/3.%20Contract%20detail.png)|![alt text](https://github.com/Gaever/ppfmobile/blob/master/4.%20Payment.png)|
+|![alt text](https://github.com/Gaever/ppfmobile/blob/master/5.%20Payment%20gate.png)|------|
