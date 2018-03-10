@@ -1,5 +1,4 @@
-# ppfmobile
-"PPF Life insurance" client mobile app
+# "PPF Life insurance" client mobile app
 
 This mobile application is used as personal cabinet. 
 As client log in under his personal account he can observe information about certificates of insurance he has (such as list
