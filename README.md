@@ -1,4 +1,4 @@
-# "PPF Life insurance" mobile app
+# PPF "Life insurance" mobile app
 
 This mobile application is used as personal cabinet for PPF Life insurance clients (http://ppfinsurance.ru/). 
 As client sign in to his personal account he can observe information about certificates of insurance he has (such as list
