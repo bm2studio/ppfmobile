@@ -7,6 +7,8 @@ Client can register, authorize and recover his account data.
 
 Application is written on React Native and works both under iOS and Android.
 
+Sample code could be found in sources. It's not the whole program - just a couple of components to demonstrate.
+
 |   |   |
 | --- | --- |
 | ![alt text](https://github.com/Gaever/ppfmobile/blob/master/1.%20Startscreen.png) | ![alt text](https://github.com/Gaever/ppfmobile/blob/master/2.%20Contract%20list.png) |
